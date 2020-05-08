@@ -15,8 +15,8 @@
   "gridUnits": "ft",
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
-  "url": "https://gitlab.com/foundrynet/worldbuilding/",
-  "manifest": "https://gitlab.com/foundrynet/worldbuilding/raw/master/system.json",
-  "download": "https://gitlab.com/foundrynet/worldbuilding/-/archive/release-035/worldbuilding-release-035.zip",
+  "url": "https://github.com/cyanomys/kryxrpg",
+  "manifest": "https://raw.githubusercontent.com/cyanomys/kryxrpg/master/system.json",
+  "download": "https://github.com/cyanomys/kryxrpg/archive/master.zip",
   "license": "LICENSE.txt"
 }
