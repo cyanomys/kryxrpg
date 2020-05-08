@@ -9,7 +9,22 @@
   "author": "cyanomys",
   "esmodules": ["module/simple.js"],
   "styles": ["styles/simple.css"],
-  "packs": [],
+  "packs": [
+      {
+        "name": "conditions",
+        "label": "Conditions",
+        "system": "kryxrpg",
+        "path": "./packs/conditions.db",
+        "entity": "JournalEntry"
+      },
+      {
+        "name": "condition-tables",
+        "label": "Condition Tables",
+        "system": "kryxrpg",
+        "path": "./packs/condition-tables.db",
+        "entity": "RollTable"
+      }
+  ],
   "languages": [],
   "gridDistance": 5,
   "gridUnits": "ft",
